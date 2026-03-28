@@ -73,7 +73,7 @@ export default function Blog() {
     : blogs.filter(b => b.category === activeCategory);
 
   const featured = blogs.find(b => b.featured);
-  const gridBlogs = activeCategory === 'All' ? blogs.filter(b => !b.featured) : filtered;
+  const gridBlogs = filtered;
 
   return (
     <div className="w-full">
