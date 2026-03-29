@@ -186,7 +186,7 @@ export default function Footer() {
             className="text-center md:text-left"
             style={{ color: '#B5B5B5', fontSize: '14px' }}
           >
-            © 2025 Aluzen. All Rights Reserved. Crafted with ❤️ by <a href="https://digicoders.in" target='_blank'><span style={{ color: '#F4C600' }}>#TeamDigiCoders</span></a>
+            © 2025 Aluzen. All Rights Reserved. Crafted with ❤️ by <a href="#" target='_blank'><span style={{ color: '#F4C600' }}>#EcomSyncify</span></a>
           </p>
 
           {/* Legal Links */}
